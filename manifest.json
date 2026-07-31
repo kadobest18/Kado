@@ -1,0 +1,24 @@
+{
+  "name": "KADO Personal",
+  "short_name": "KADO",
+  "description": "Your private life dashboard — finances, schedule, tasks, notes and life balance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1B3D",
+  "theme_color": "#0B1B3D",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
